@@ -1,0 +1,4 @@
+<launch>
+    <node name="laser_scan_publisher" pkg="udp_c" type="client" output="screen">
+    </node>
+</launch>

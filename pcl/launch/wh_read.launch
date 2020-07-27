@@ -1,0 +1,4 @@
+<launch>
+  <node name="wh_read"          pkg="pcl"  type="wh_read" output="screen">
+  </node>
+</launch>

@@ -1,0 +1,4 @@
+<launch>
+  <node name="scan_filter"  pkg="pcl"  type="scan_filter" output="screen">
+  </node>
+</launch>
